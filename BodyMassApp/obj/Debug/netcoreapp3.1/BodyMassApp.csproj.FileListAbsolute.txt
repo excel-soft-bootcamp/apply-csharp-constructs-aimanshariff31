@@ -1,0 +1,13 @@
+C:\Users\aiman.shariff\source\repos\BodyMassApp\BodyMassApp\bin\Debug\netcoreapp3.1\BodyMassApp.exe
+C:\Users\aiman.shariff\source\repos\BodyMassApp\BodyMassApp\bin\Debug\netcoreapp3.1\BodyMassApp.deps.json
+C:\Users\aiman.shariff\source\repos\BodyMassApp\BodyMassApp\bin\Debug\netcoreapp3.1\BodyMassApp.runtimeconfig.json
+C:\Users\aiman.shariff\source\repos\BodyMassApp\BodyMassApp\bin\Debug\netcoreapp3.1\BodyMassApp.runtimeconfig.dev.json
+C:\Users\aiman.shariff\source\repos\BodyMassApp\BodyMassApp\bin\Debug\netcoreapp3.1\BodyMassApp.dll
+C:\Users\aiman.shariff\source\repos\BodyMassApp\BodyMassApp\bin\Debug\netcoreapp3.1\BodyMassApp.pdb
+C:\Users\aiman.shariff\source\repos\BodyMassApp\BodyMassApp\obj\Debug\netcoreapp3.1\BodyMassApp.csprojAssemblyReference.cache
+C:\Users\aiman.shariff\source\repos\BodyMassApp\BodyMassApp\obj\Debug\netcoreapp3.1\BodyMassApp.AssemblyInfoInputs.cache
+C:\Users\aiman.shariff\source\repos\BodyMassApp\BodyMassApp\obj\Debug\netcoreapp3.1\BodyMassApp.AssemblyInfo.cs
+C:\Users\aiman.shariff\source\repos\BodyMassApp\BodyMassApp\obj\Debug\netcoreapp3.1\BodyMassApp.csproj.CoreCompileInputs.cache
+C:\Users\aiman.shariff\source\repos\BodyMassApp\BodyMassApp\obj\Debug\netcoreapp3.1\BodyMassApp.dll
+C:\Users\aiman.shariff\source\repos\BodyMassApp\BodyMassApp\obj\Debug\netcoreapp3.1\BodyMassApp.pdb
+C:\Users\aiman.shariff\source\repos\BodyMassApp\BodyMassApp\obj\Debug\netcoreapp3.1\BodyMassApp.genruntimeconfig.cache
