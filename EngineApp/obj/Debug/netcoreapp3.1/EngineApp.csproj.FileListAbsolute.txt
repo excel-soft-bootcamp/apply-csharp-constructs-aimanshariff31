@@ -1,0 +1,13 @@
+C:\Users\aiman.shariff\source\repos\EngineApp\EngineApp\bin\Debug\netcoreapp3.1\EngineApp.exe
+C:\Users\aiman.shariff\source\repos\EngineApp\EngineApp\bin\Debug\netcoreapp3.1\EngineApp.deps.json
+C:\Users\aiman.shariff\source\repos\EngineApp\EngineApp\bin\Debug\netcoreapp3.1\EngineApp.runtimeconfig.json
+C:\Users\aiman.shariff\source\repos\EngineApp\EngineApp\bin\Debug\netcoreapp3.1\EngineApp.runtimeconfig.dev.json
+C:\Users\aiman.shariff\source\repos\EngineApp\EngineApp\bin\Debug\netcoreapp3.1\EngineApp.dll
+C:\Users\aiman.shariff\source\repos\EngineApp\EngineApp\bin\Debug\netcoreapp3.1\EngineApp.pdb
+C:\Users\aiman.shariff\source\repos\EngineApp\EngineApp\obj\Debug\netcoreapp3.1\EngineApp.csprojAssemblyReference.cache
+C:\Users\aiman.shariff\source\repos\EngineApp\EngineApp\obj\Debug\netcoreapp3.1\EngineApp.AssemblyInfoInputs.cache
+C:\Users\aiman.shariff\source\repos\EngineApp\EngineApp\obj\Debug\netcoreapp3.1\EngineApp.AssemblyInfo.cs
+C:\Users\aiman.shariff\source\repos\EngineApp\EngineApp\obj\Debug\netcoreapp3.1\EngineApp.csproj.CoreCompileInputs.cache
+C:\Users\aiman.shariff\source\repos\EngineApp\EngineApp\obj\Debug\netcoreapp3.1\EngineApp.dll
+C:\Users\aiman.shariff\source\repos\EngineApp\EngineApp\obj\Debug\netcoreapp3.1\EngineApp.pdb
+C:\Users\aiman.shariff\source\repos\EngineApp\EngineApp\obj\Debug\netcoreapp3.1\EngineApp.genruntimeconfig.cache
