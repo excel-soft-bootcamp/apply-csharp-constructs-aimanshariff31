@@ -1,0 +1,6 @@
+C:\Users\thanya.n\source\repos\Examples\CheckBmiLib\obj\Debug\CheckBmiLib.csproj.AssemblyReference.cache
+C:\Users\thanya.n\source\repos\Examples\CheckBmiLib\obj\Debug\CheckBmiLib.csproj.CoreCompileInputs.cache
+C:\Users\thanya.n\source\repos\Examples\CheckBmiLib\bin\Debug\CheckBmiLib.dll
+C:\Users\thanya.n\source\repos\Examples\CheckBmiLib\bin\Debug\CheckBmiLib.pdb
+C:\Users\thanya.n\source\repos\Examples\CheckBmiLib\obj\Debug\CheckBmiLib.dll
+C:\Users\thanya.n\source\repos\Examples\CheckBmiLib\obj\Debug\CheckBmiLib.pdb
