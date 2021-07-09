@@ -1,0 +1,13 @@
+C:\Users\aiman.shariff\source\repos\DoorSensor\DoorSensor\bin\Debug\netcoreapp3.1\DoorSensor.exe
+C:\Users\aiman.shariff\source\repos\DoorSensor\DoorSensor\bin\Debug\netcoreapp3.1\DoorSensor.deps.json
+C:\Users\aiman.shariff\source\repos\DoorSensor\DoorSensor\bin\Debug\netcoreapp3.1\DoorSensor.runtimeconfig.json
+C:\Users\aiman.shariff\source\repos\DoorSensor\DoorSensor\bin\Debug\netcoreapp3.1\DoorSensor.runtimeconfig.dev.json
+C:\Users\aiman.shariff\source\repos\DoorSensor\DoorSensor\bin\Debug\netcoreapp3.1\DoorSensor.dll
+C:\Users\aiman.shariff\source\repos\DoorSensor\DoorSensor\bin\Debug\netcoreapp3.1\DoorSensor.pdb
+C:\Users\aiman.shariff\source\repos\DoorSensor\DoorSensor\obj\Debug\netcoreapp3.1\DoorSensor.csprojAssemblyReference.cache
+C:\Users\aiman.shariff\source\repos\DoorSensor\DoorSensor\obj\Debug\netcoreapp3.1\DoorSensor.AssemblyInfoInputs.cache
+C:\Users\aiman.shariff\source\repos\DoorSensor\DoorSensor\obj\Debug\netcoreapp3.1\DoorSensor.AssemblyInfo.cs
+C:\Users\aiman.shariff\source\repos\DoorSensor\DoorSensor\obj\Debug\netcoreapp3.1\DoorSensor.csproj.CoreCompileInputs.cache
+C:\Users\aiman.shariff\source\repos\DoorSensor\DoorSensor\obj\Debug\netcoreapp3.1\DoorSensor.dll
+C:\Users\aiman.shariff\source\repos\DoorSensor\DoorSensor\obj\Debug\netcoreapp3.1\DoorSensor.pdb
+C:\Users\aiman.shariff\source\repos\DoorSensor\DoorSensor\obj\Debug\netcoreapp3.1\DoorSensor.genruntimeconfig.cache
